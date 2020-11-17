@@ -1,0 +1,22 @@
+
+How do you copy by value a composite data type?- https://kashishksysingh.medium.com/how-do-you-copy-by-value-a-composite-data-type-d0da7df507b4
+Why there is a difference in behavior for copying contents in primitive and non primitive type? - https://kashishksysingh.medium.com/why-there-is-a-difference-in-behavior-for-copying-contents-in-primitive-and-non-primitive-type-c69c59969a16
+Write a blog about objects and its internal representation in Javascript- https://kashishksysingh.medium.com/objects-and-its-internal-representation-in-javascript-5d59c5943ff4
+•	execute and see at least 15 cli commands. like mkdir, ls etc. –
+1.	mv target destination – move a file to another destination
+2.	cp -r target destination – copy files to a destination
+3.	rm -r target – remove/delete file
+4.	ls target (options) – list files
+5.	cd target- change directory
+6.	mkdir target- make a new folder
+7.	clear- clear clutter 
+8.	python target – to run a python file
+9.	java target- to run a java file
+10.	javac target – to compile a java file
+11.	calc – opens calculator
+12.	magnify- opens screen magnifier accessory
+13.	notepad – opens notepad 
+14.	msconfig – opens system configuration utility
+15.	mspaint- opens ms paint
+
+•	What is the difference between window, screen, and document in Javascript-https://kashishksysingh.medium.com/what-is-the-difference-between-window-screen-and-document-in-javascript-223d57ed82d6

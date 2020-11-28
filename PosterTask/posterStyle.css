@@ -1,0 +1,75 @@
+.content {
+    max-width: 500px;
+    margin: auto;
+    background:thistle;
+    padding: 30px;
+    border-radius: 100px;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border-style: solid;
+   
+  }
+ body{
+     background: white;
+     }
+ p{
+    font-size: 30px;
+    font-family: 'Tangerine', serif;
+    padding: 10px;
+ }
+ .dropcap {
+    font-family: 'Tangerine', serif; 
+    color: white;
+    float: left;
+    font-size: 6rem;
+    line-height: 1;
+    margin: 0.1em 0.1em 0.2em 0;
+    padding: 0.1em;
+  }
+  .dropcap:before,
+  .dropcap:after {
+    content: "";
+    display: block;
+  }
+  .dropcap:before {
+    margin-top: -0.2em;
+  }
+  .dropcap:after {
+    margin-bottom: -0.15em;
+  }
+  .hasDropCaps{
+    first-letter {
+        font-family: "Source Sans Pro", Arial, Helvetica, sans-serif;
+        float: left;
+        font-size: 6rem;
+        line-height: 0.65;
+        margin: 0.1em 0.1em 0.2em 0;
+      }
+  }
+.outer{
+    max-width: 600px;
+    margin: auto;
+    border black;
+    border-style: solid;
+    border-width: 10px;
+    background-color: thistle;
+
+}
+.section1{
+    border-radius: ;
+    background-color: black;
+}
+.section2{
+    background-color: cyan;
+}
+.section3{
+    background-color: darkorchid;
+
+}
+.section4{
+    background-color: darkred;
+}
+#p1{
+    color: white;
+}
